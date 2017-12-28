@@ -1,6 +1,6 @@
 {
     "name": "kouosl/Banner",
-    "description": "Yii2 KouOsl banner Module Integration",
+    "description": "Yii2 KouOsl Banner Module Integration",
     "type": "yii2-extension",
     "keywords": ["yii2", "yii 2", "Banners", "Banner", "module", "modules"],
     "license": "BSD-3-Clause",
