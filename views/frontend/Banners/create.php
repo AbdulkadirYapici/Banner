@@ -2,15 +2,15 @@
 
 use yii\helpers\Html;
 
+
 /* @var $this yii\web\View */
 /* @var $model kouosl\Banner\models\Banner */
 
-$this->title = 'Update Banner: {nameAttribute}';
+$this->title = 'Create Banner';
 $this->params['breadcrumbs'][] = ['label' => 'Banners', 'url' => ['index']];
-$this->params['breadcrumbs'][] = ['label' => $model->title, 'url' => ['view', 'id' => $model->id]];
-$this->params['breadcrumbs'][] = 'Update';
+$this->params['breadcrumbs'][] = $this->title;
 ?>
-<div class="banner-update">
+<div class="banner-create">
 
     <h1><?= Html::encode($this->title) ?></h1>
 

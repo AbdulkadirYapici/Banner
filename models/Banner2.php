@@ -18,7 +18,7 @@ use Yii;
  * @property User $user
  * @property Report[] $reports
  */
-class Banner extends \yii\db\ActiveRecord
+class Banner2 extends \yii\db\ActiveRecord
 {
     /**
      * @inheritdoc
